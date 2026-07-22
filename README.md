@@ -35,7 +35,7 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/SuryaAutomation-dev/content-automation-pipeline.git
+git clone https://github.com/sawtrader/content-automation-pipeline.git
 cd content-automation-pipeline
 ```
 
