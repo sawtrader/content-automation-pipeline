@@ -108,4 +108,4 @@ content-automation-pipeline/
 
 ---
 
-*Built with Python + Local LLM | GPU-accelerated on NVIDIA RTX 3060*
+*Built with Python + Local LLM | GPU-accelerated on NVIDIA RTX 3060 - Created by Surya Adriwiranata*
