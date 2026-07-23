@@ -10,6 +10,11 @@
 
 ---
 
+📸 Demo
+
+<img width="1912" height="962" alt="Content Automation Pipeline" src="https://github.com/user-attachments/assets/6c7f2fc9-1a92-443e-9590-244b5fac708e" />
+
+
 ## ✨ Features
 
 - **CSV input** — add unlimited topics in seconds
@@ -92,9 +97,13 @@ python main.py
 ## 📋 Project Structure
 
 content-automation-pipeline/
+
 ├── main.py             # Pipeline orchestrator
+
 ├── generator.py        # LLM content generation logic
+
 ├── sample_input.csv    # Example input file
+
 └── README.md
 
 ---
